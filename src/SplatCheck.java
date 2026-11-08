@@ -1,3 +1,11 @@
+/**
+ * SplatCheck.java
+ * 
+ * A searchable database for information on Splatoon 3 teams, players, and matches.
+ * 
+ * @author Brayden Hagedorn
+ * @version 11/8/2026
+*/
 public class SplatCheck {
     public static void main(String[] args) {
         int input = 0;
