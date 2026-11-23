@@ -7,7 +7,7 @@ import java.util.ArrayList;
  * @author Brayden Hagedorn
  * @version 11/8/2026
 */
-public class Player {
+public class Player implements java.io.Serializable {
     private String splashtag;
     private ArrayList<String> weapons;
     private ArrayList<String> teams;

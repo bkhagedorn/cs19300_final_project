@@ -6,7 +6,7 @@
  * @author Brayden Hagedorn
  * @version 11/8/2026
 */
-public class Match {
+public class Match implements java.io.Serializable {
     private final Team winner; // winning team
     private final Team loser; // losing team
     private final  String map;

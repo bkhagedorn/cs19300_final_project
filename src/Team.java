@@ -7,7 +7,7 @@ import java.util.ArrayList;
  * @author Brayden Hagedorn
  * @version 11/8/2026
 */
-public class Team {
+public class Team implements java.io.Serializable {
     private String name;
     private ArrayList<Player> players;
     private ArrayList<String> playerTypes;
